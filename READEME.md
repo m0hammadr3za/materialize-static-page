@@ -1,5 +1,7 @@
 # Materialize static page
 
-Live demo: [materialize-static-page.vercel.app](https://materialize-static-page.vercel.app)
+[Live Demo](https://materialize-static-page.vercel.app) • This is a single page HTML web application. I used materialize for styling. Materialize was one of the first styling libraries I worked with and I quite liked the development experience. I also like the design especially because this was one of the first projects I did.
 
-Using materialize for the first time back in 2019. it's kind of out dated today but i like how the design turned out.
+## Screenshots
+
+![Feature 1 Demo](images/screenshot.jpg)
