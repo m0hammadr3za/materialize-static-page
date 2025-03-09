@@ -4,4 +4,4 @@
 
 ## Screenshots
 
-![Feature 1 Demo](images/screenshot.jpg)
+![Feature 1 Demo](Images/screenshot.jpg)
